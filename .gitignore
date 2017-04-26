@@ -30,3 +30,21 @@ proguard/
 
 # Android Studio captures folder
 captures/
+
+# OSX
+.DS_Store
+.idea
+*.iml
+
+# Android
+Matchbox.iws
+Matchbox.iml
+Matchbox/build/
+Matchbox/app/build/
+Matchbox/app/app.iml
+
+.vscode/
+
+
+
+
